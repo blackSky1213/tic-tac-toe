@@ -1,1 +1,0 @@
-var player1=prompt("")

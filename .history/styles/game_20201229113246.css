@@ -1,0 +1,19 @@
+.far fa-circle{
+    border:100px;
+}
+table{
+    margin:auto auto;
+}
+.y{
+    border-right:5px double black;
+    border-left: 5px double black;
+}
+
+.x{
+    border-top:5px double black;
+    border-bottom:5px double black;
+}
+td{
+    width:40px;
+    height:40px;
+}

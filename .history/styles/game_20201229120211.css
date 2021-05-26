@@ -1,0 +1,29 @@
+body{
+    background-color:#cae4db;
+}
+div h1{
+    font-family:'Audiowide', cursive;
+    color:#00303f;
+}
+.player-1, .player-2{
+    font-family:'Audiowide', cursive;
+    color:#00303f;
+    display:inline-block;
+}
+table{
+    margin:7% auto;
+    text-align: center;
+}
+.y{
+    border-right:9px solid #00303f;
+    border-left: 9px solid #00303f;
+}
+
+.x{
+    border-top:9px solid #00303f;
+    border-bottom:9px solid #00303f;
+}
+td{
+    width:150px;
+    height:150px;
+}

@@ -1,0 +1,27 @@
+body{
+    background-color:#cae4db;
+}
+.game-title{
+    font-family:'Audiowide', cursive;
+    color:#00303f;
+    display
+}
+table{
+    margin:20px auto;
+    text-align: center;
+    background-color:#cdac81;
+    box-shadow: 0 8px 6px -6px black;
+}
+.y{
+    border-right:5px solid #00303f;
+    border-left: 5px solid #00303f;
+}
+
+.x{
+    border-top:5px solid #00303f;
+    border-bottom:5px solid #00303f;
+}
+td{
+    width:40px;
+    height:40px;
+}

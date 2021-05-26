@@ -1,0 +1,3 @@
+$(".start").click(function(event){
+    $
+})

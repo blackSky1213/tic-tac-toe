@@ -1,0 +1,15 @@
+body{
+    background-color:#cae4db;
+}
+.title{
+    text-align:center;
+    font-size:70px;
+    margin:auto 30% auto 30%;
+    font-family:'Audiowide', cursive;
+    color:#00303f;
+}
+.start{
+    background-color:red;
+    width:350px;
+    height:100px;
+}
